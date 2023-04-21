@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sabrina!
-- 🌱 I’m currently learning R and Python basics
+- 🌱 I’m currently learning R and Python. 
 
 <!---
 smbr15/smbr15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
